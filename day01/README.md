@@ -1,10 +1,13 @@
 ## 📘 문제 이름
+두수의 합 구하기
 
-- 🧩 난이도: 실버 2
+- 🧩 난이도: level 1
 - 🛠 사용 언어: Python
 
+---
+
 ### 🔗 문제 링크
-[백준 1000번 - A+B](https://www.acmicpc.net/problem/1000)
+[문제링크](https://school.programmers.co.kr/learn/courses/30/lessons/120802)
 
 ---
 
@@ -32,7 +35,3 @@ input().split() 익숙하지 않으면 자주 헷갈릴 수 있다.
 ### 다른 사람의 풀이
  sys.stdin.readline()으로 더 빠르게 입력 받음.
 lambda 함수로 압축적으로 구현하는 방식도 있었음.
-
-
-
-✍ 배운 것, 느낀 점, 아직 이해되지 않은 점 (선택)
