@@ -3,11 +3,7 @@
 
 - 🧩 난이도: level 1
 - 🛠 사용 언어: Python
-
----
-
-### 🔗 문제 링크
-[문제링크](https://school.programmers.co.kr/learn/courses/30/lessons/120802)
+- [문제링크](https://school.programmers.co.kr/learn/courses/30/lessons/120802)
 
 ---
 
